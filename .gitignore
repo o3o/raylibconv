@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/raylibconv
+raylibconv.so
+raylibconv.dylib
+raylibconv.dll
+raylibconv.a
+raylibconv.lib
+raylibconv-test-*
+*.exe
+*.o
+*.obj
+*.lst
